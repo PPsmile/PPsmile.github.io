@@ -1,0 +1,53 @@
+  #ip:hover{
+    color: dodgerblue;
+    text-decoration: underline;
+    cursor: pointer;
+  }
+  #ppl:hover{
+    color: dodgerblue;
+    text-decoration: underline;
+    cursor: pointer;
+  }
+  #ip:hover{
+    color: dodgerblue;
+    text-decoration: underline;
+    cursor: pointer;
+  }
+  #thaimusic:hover{
+    color: dodgerblue;
+    text-decoration: underline;
+    cursor: pointer;
+  }
+  #aid:hover{
+    color: dodgerblue;
+    text-decoration: underline;
+    cursor: pointer;
+  }
+  #cloud:hover{
+    color: dodgerblue;
+    text-decoration: underline;
+    cursor: pointer;
+  }
+  #web:hover{
+    color: dodgerblue;
+    text-decoration: underline;
+    cursor: pointer;
+  }
+  .tf{
+    font-family: 'Kanit', sans-serif;
+  }
+  #message{
+      font-size: 20px;
+  }
+  .move{
+    text-align: right;
+    margin-right: 5em;
+  }
+  #site-footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+  }
+
