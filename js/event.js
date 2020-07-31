@@ -8,7 +8,7 @@ let thaimusicBtn = document.getElementById("thaimusic");
 
 
 ipBtn.addEventListener('click', ()=>{
-    message.innerHTML = "01418341 ชื่อวิชา ทรัพย์สินทางปัญญาสำหรับดิจตอลคอนเทนต์ Intellectual Property for Digital Content เรียนทุกวันพุธและศุกร์เวลา 8:00-9:30 สอนโดย อ.นวลวรรณ <br>ภาควิชาวิทยาการคอมพิวเตอร์ คณะวิทยาศาสตร์ 3 หน่วยกิต"
+    message.innerHTML = "01418341 ชื่อวิชา ทรัพย์สินทางปัญญาสำหรับดิจตอลคอนเทนต์ Intellectual Property for Digital Content เรียนทุกวันพุธและศุกร์เวลา 8:00-9:30 <br>สอนโดย อ.นวลวรรณ ภาควิชาวิทยาการคอมพิวเตอร์ คณะวิทยาศาสตร์ 3 หน่วยกิต"
 });
 webBtn.addEventListener('click', ()=>{
     message.innerHTML = "01418442 Web Technology and Services เรียนทุกวันอังคารเวลา 10:00-12:00 และ 14:30-16:30 สอนโดย อ.สุขุมาลและอ.ศรชัย <br>ภาควิชาวิทยาการคอมพิวเตอร์ คณะวิทยาศาสตร์ 3 หน่วยกิต "

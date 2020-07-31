@@ -40,8 +40,9 @@
       font-size: 20px;
   }
   .move{
-    text-align: right;
+    text-align: center;
     margin-right: 5em;
+    margin-top: 0rem;
   }
   #site-footer{
     position: fixed;
